@@ -1,0 +1,1761 @@
+AI0>>Writing to stdin, waiting for stdout
+0
+AI0>>STDOUT: 2 2
+AI1>>Writing to stdin, waiting for stdout
+1
+AI1>>STDOUT: 3 3
+AI0>>Writing to stdin, waiting for stdout
+1 100000 0 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 1 0 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+0 1 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+AI0>>STDOUT: L 1 1 4 4
+AI1>>Writing to stdin, waiting for stdout
+1 100000 0 0
+0 0 0 0 0
+0 1 0 0 0
+0 0 0 0 0
+0 0 0 1 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+1 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+AI1>>STDOUT: L 1 1 5 4
+AI0>>Writing to stdin, waiting for stdout
+2 99986 0 0
+0 0 0 0 0
+0 0 0 0 0
+1 0 0 0 0
+0 0 0 0 0
+0 0 0 1 0
+0 0 0 0 0
+1 0 0 0 0
+0 0 0 0 0
+1 0 0 0 0
+0 0 0 0 0
+AI0>>STDOUT: L 1 1 1 5
+AI1>>Writing to stdin, waiting for stdout
+2 99987 0 0
+0 0 0 0 1
+1 0 0 0 0
+0 0 0 0 0
+1 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+1 0 0 0 0
+0 0 0 0 0
+1 0 0 0 0
+AI1>>STDOUT: L 1 1 1 4
+AI0>>Writing to stdin, waiting for stdout
+3 99965 0 0
+0 0 0 1 0
+0 0 0 0 0
+1 0 0 0 0
+0 0 0 0 0
+1 0 0 0 0
+1 0 0 0 0
+1 0 0 0 0
+0 0 0 0 0
+1 0 0 0 0
+0 0 0 0 0
+AI0>>STDOUT: D 1 2 3 3
+AI1>>Writing to stdin, waiting for stdout
+3 99965 0 4
+1 0 0 0 0
+1 0 0 0 0
+0 0 2 0 0
+1 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+2 0 0 1 0
+AI1>>STDOUT: L 1 1 1 1
+AI0>>Writing to stdin, waiting for stdout
+4 99917 4 0
+1 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+2 0 0 1 0
+1 0 0 0 0
+1 0 0 0 0
+2 0 0 0 0
+1 0 0 0 0
+0 0 0 0 0
+AI0>>STDOUT: R 1 1 5 5
+AI1>>Writing to stdin, waiting for stdout
+4 99951 0 4
+1 0 0 0 0
+1 0 0 0 0
+2 0 0 0 0
+1 0 0 0 0
+0 0 0 0 1
+0 0 0 0 1
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 2 1
+AI1>>STDOUT: L 1 1 3 4
+AI0>>Writing to stdin, waiting for stdout
+5 99901 4 0
+0 0 0 0 1
+0 0 0 0 0
+0 0 0 1 0
+0 0 0 0 0
+0 0 0 2 1
+1 0 0 0 0
+1 0 0 0 0
+2 0 0 0 0
+1 0 0 0 0
+1 0 0 0 0
+AI0>>STDOUT: D 2 1 3 2 5 5
+AI1>>Writing to stdin, waiting for stdout
+5 99936 0 8
+1 0 0 0 0
+1 0 0 0 0
+2 1 0 0 0
+1 0 0 0 0
+1 0 0 0 1
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 1 0
+0 0 0 2 2
+AI1>>STDOUT: U 2 2 1 2 3 1
+AI0>>Writing to stdin, waiting for stdout
+6 99862 8 8
+0 2 0 0 0
+0 0 0 0 0
+2 0 0 0 0
+0 0 0 1 0
+0 0 0 2 2
+2 1 0 0 1
+2 0 0 0 0
+2 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+AI0>>STDOUT: D 1 1 2 3
+AI1>>Writing to stdin, waiting for stdout
+6 99871 8 8
+2 1 0 0 1
+2 0 1 0 0
+2 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 1 0
+2 2 0 2 2
+AI1>>STDOUT: L 2 1 2 1 5 3
+AI0>>Writing to stdin, waiting for stdout
+7 99843 8 12
+0 0 0 0 0
+1 0 0 0 0
+0 0 0 0 0
+0 0 0 1 0
+2 2 1 2 2
+2 2 0 0 0
+2 1 0 0 0
+2 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+AI0>>STDOUT: D 1 1 5 4
+AI1>>Writing to stdin, waiting for stdout
+7 99819 12 8
+2 2 0 0 0
+2 1 0 0 0
+2 0 0 0 0
+0 0 0 0 0
+0 0 0 1 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+1 0 0 1 0
+2 2 1 2 2
+AI1>>STDOUT: L 1 2 4 3
+AI0>>Writing to stdin, waiting for stdout
+8 99824 8 20
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+1 0 2 1 0
+2 2 1 2 2
+3 0 0 0 0
+2 1 0 0 0
+2 0 0 0 0
+0 0 0 0 0
+1 0 0 0 0
+AI0>>STDOUT: U 1 1 1 4
+AI1>>Writing to stdin, waiting for stdout
+8 99786 20 8
+3 0 0 1 0
+2 1 0 0 0
+2 0 0 0 0
+0 0 0 0 0
+1 0 0 0 0
+1 2 2 1 2
+2 0 1 2 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+AI1>>STDOUT: U 2 1 5 1 2 5
+AI0>>Writing to stdin, waiting for stdout
+9 99794 8 28
+1 2 2 1 2
+2 0 1 2 1
+0 0 0 0 0
+0 0 0 0 0
+1 0 0 0 0
+3 1 0 1 0
+3 0 0 0 0
+1 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+AI0>>STDOUT: U 1 1 2 3
+AI1>>Writing to stdin, waiting for stdout
+9 99735 28 8
+3 1 0 1 0
+3 0 1 0 0
+1 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+1 2 2 1 2
+2 0 1 2 1
+1 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+AI1>>STDOUT: L 1 2 4 1
+AI0>>Writing to stdin, waiting for stdout
+10 99763 8 32
+1 2 2 1 2
+2 0 1 2 1
+1 0 0 0 0
+2 0 0 0 0
+0 0 0 0 0
+3 2 0 0 0
+3 1 0 0 0
+1 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+AI0>>STDOUT: R 1 2 3 2
+AI1>>Writing to stdin, waiting for stdout
+10 99679 32 16
+3 2 0 0 0
+3 1 0 0 0
+1 2 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+0 1 3 1 2
+0 2 1 2 1
+0 0 0 0 1
+0 0 0 0 2
+0 0 0 0 0
+AI1>>STDOUT: U 2 1 4 2 5 5
+AI0>>Writing to stdin, waiting for stdout
+11 99721 16 48
+0 1 3 1 2
+0 2 1 2 1
+0 0 0 0 1
+0 1 0 0 2
+0 0 0 0 1
+4 2 0 0 0
+1 1 0 0 0
+0 2 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+AI0>>STDOUT: D 2 1 4 3 1 4
+AI1>>Writing to stdin, waiting for stdout
+11 99622 48 20
+4 2 0 1 0
+1 1 0 0 0
+0 2 0 0 0
+0 0 1 0 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 2
+0 1 0 0 2
+0 2 3 1 2
+0 1 1 2 1
+AI1>>STDOUT: L 1 2 1 1
+AI0>>Writing to stdin, waiting for stdout
+12 99678 20 52
+2 0 0 0 0
+0 0 0 0 2
+0 1 0 0 2
+0 2 3 1 2
+0 1 1 2 1
+4 2 1 0 0
+2 0 0 0 0
+2 0 0 0 0
+1 0 0 0 0
+0 0 0 0 0
+AI0>>STDOUT: R 1 2 5 5
+AI1>>Writing to stdin, waiting for stdout
+12 99567 52 24
+4 2 1 0 0
+2 0 0 0 0
+2 0 0 0 0
+1 0 0 0 0
+0 0 0 0 2
+0 0 0 0 2
+0 0 0 0 2
+0 0 0 1 2
+0 2 3 1 2
+0 0 2 2 1
+AI1>>STDOUT: L 1 1 1 1
+AI0>>Writing to stdin, waiting for stdout
+13 99636 24 52
+1 0 0 0 2
+0 0 0 0 2
+0 0 0 1 2
+0 2 3 1 2
+0 0 2 2 1
+4 2 1 0 0
+2 0 0 0 0
+2 0 0 0 0
+1 0 0 0 0
+2 0 0 0 0
+AI0>>STDOUT: D 1 4 3 2
+AI1>>Writing to stdin, waiting for stdout
+13 99542 52 44
+4 2 1 0 0
+2 0 0 0 0
+2 4 0 0 0
+1 0 0 0 0
+2 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 3
+0 0 3 2 3
+1 2 2 2 1
+AI1>>STDOUT: R 1 1 1 4
+AI0>>Writing to stdin, waiting for stdout
+14 99512 44 52
+0 0 0 1 0
+0 0 0 0 0
+0 0 0 0 3
+0 0 3 2 3
+1 2 2 2 1
+0 0 4 2 1
+0 0 0 0 2
+0 0 0 2 4
+0 0 0 0 1
+0 0 0 0 2
+AI0>>STDOUT: D 1 3 3 2
+AI1>>Writing to stdin, waiting for stdout
+14 99522 52 68
+0 0 4 2 1
+0 0 0 0 2
+0 3 0 2 4
+0 0 0 0 1
+0 0 0 0 2
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 3 1 4
+1 2 2 3 1
+AI1>>STDOUT: D 1 2 3 3
+AI0>>Writing to stdin, waiting for stdout
+15 99417 68 60
+0 0 0 0 0
+0 0 0 0 0
+0 0 2 0 0
+0 0 3 1 4
+1 2 2 3 1
+0 0 0 0 1
+0 0 0 0 2
+0 0 0 0 4
+0 0 0 0 1
+0 3 4 3 2
+AI0>>STDOUT: R 1 2 5 1
+AI1>>Writing to stdin, waiting for stdout
+15 99476 60 76
+0 0 0 0 1
+0 0 0 0 2
+0 0 0 0 4
+0 0 0 0 1
+2 3 4 3 2
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 2
+0 0 3 1 4
+0 1 3 3 1
+AI1>>STDOUT: U 1 1 2 1
+AI0>>Writing to stdin, waiting for stdout
+16 99371 76 60
+0 0 0 0 0
+1 0 0 0 0
+0 0 0 0 2
+0 0 3 1 4
+0 1 3 3 1
+2 3 4 3 1
+0 0 0 0 2
+0 0 0 0 4
+0 0 0 0 1
+0 0 0 0 2
+AI0>>STDOUT: D 2 1 5 1 2 4
+AI1>>Writing to stdin, waiting for stdout
+16 99459 60 92
+2 3 4 3 1
+0 0 0 1 2
+0 0 0 0 4
+0 0 0 0 1
+1 0 0 0 2
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 2
+0 0 0 1 4
+1 1 4 3 1
+AI1>>STDOUT: L 1 1 1 3
+AI0>>Writing to stdin, waiting for stdout
+17 99304 92 60
+0 0 1 0 0
+0 0 0 0 0
+0 0 0 0 2
+0 0 0 1 4
+1 1 4 3 1
+2 3 4 3 1
+1 2 0 0 0
+4 0 0 0 0
+1 0 0 0 0
+1 2 0 0 0
+AI0>>STDOUT: U 1 1 3 2
+AI1>>Writing to stdin, waiting for stdout
+17 99444 60 92
+2 3 4 3 1
+1 2 0 0 0
+4 1 0 0 0
+1 0 0 0 0
+1 2 0 0 0
+1 1 1 1 2
+0 0 4 3 4
+0 0 0 0 1
+0 0 0 0 0
+0 0 0 0 0
+AI1>>STDOUT: D 1 2 3 4
+AI0>>Writing to stdin, waiting for stdout
+18 99267 92 64
+1 1 1 1 2
+0 0 4 3 4
+0 0 0 2 1
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+2 3 0 0 0
+1 2 0 0 0
+4 1 0 0 0
+2 2 4 3 1
+AI0>>STDOUT: L 4 1 1 4 2 3 1 2 1 1
+AI1>>Writing to stdin, waiting for stdout
+18 99400 64 100
+1 1 0 1 0
+2 3 1 0 0
+1 2 0 0 0
+4 1 0 0 0
+2 2 4 3 1
+2 2 2 0 0
+4 3 4 0 0
+2 1 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+AI1>>STDOUT: U 1 1 5 1
+AI0>>Writing to stdin, waiting for stdout
+19 99171 100 64
+2 2 2 0 0
+4 3 4 0 0
+2 1 0 0 0
+0 0 0 0 0
+1 0 0 0 0
+1 1 1 1 1
+2 3 4 3 0
+1 2 0 0 0
+4 1 0 0 0
+2 2 0 0 0
+AI0>>STDOUT: U 1 1 3 4
+AI1>>Writing to stdin, waiting for stdout
+19 99383 64 100
+1 1 1 1 1
+2 3 4 3 0
+1 2 0 1 0
+4 1 0 0 0
+2 2 0 0 0
+2 2 2 0 0
+4 3 4 0 0
+2 1 0 0 0
+1 0 0 0 0
+0 0 0 0 0
+AI1>>STDOUT: R 2 3 5 1 3 3
+AI0>>Writing to stdin, waiting for stdout
+20 99145 100 80
+2 2 2 0 0
+4 3 4 0 0
+2 1 3 0 0
+1 0 0 0 0
+3 0 0 0 0
+0 0 1 2 2
+0 2 3 4 3
+0 0 1 2 1
+0 0 0 4 1
+0 0 0 0 3
+AI0>>STDOUT: D 1 1 5 1
+AI1>>Writing to stdin, waiting for stdout
+20 99254 80 100
+0 0 1 2 2
+0 2 3 4 3
+0 0 1 2 1
+0 0 0 4 1
+1 0 0 0 3
+2 0 0 0 0
+4 0 0 0 0
+2 2 2 0 0
+1 3 4 0 0
+3 1 3 0 0
+AI1>>STDOUT: U 2 1 1 2 4 4
+AI0>>Writing to stdin, waiting for stdout
+21 99117 100 84
+2 1 0 0 0
+4 0 0 0 0
+2 2 2 0 0
+1 3 4 1 0
+3 1 3 0 0
+1 2 1 2 2
+0 0 3 4 3
+0 0 1 2 2
+0 0 0 4 3
+0 0 0 0 0
+AI0>>STDOUT: U 1 1 5 2
+AI1>>Writing to stdin, waiting for stdout
+21 99187 84 100
+1 2 1 2 2
+0 0 3 4 3
+0 0 1 2 2
+0 0 0 4 3
+0 1 0 0 0
+2 1 2 1 0
+4 2 4 0 0
+2 3 3 0 0
+1 1 0 0 0
+3 0 0 0 0
+AI1>>STDOUT: R 2 2 2 4 5 5
+AI0>>Writing to stdin, waiting for stdout
+22 99094 100 100
+2 1 2 1 0
+4 2 4 2 0
+2 3 3 0 0
+1 1 0 0 0
+3 0 0 0 2
+0 1 2 1 3
+0 0 3 4 3
+0 0 0 1 3
+0 0 0 4 3
+0 0 0 0 1
+AI0>>STDOUT: L 2 2 4 1 5 2
+AI1>>Writing to stdin, waiting for stdout
+22 99089 100 120
+0 1 2 1 3
+0 0 3 4 3
+0 0 0 1 3
+2 0 0 4 3
+0 2 0 0 1
+2 1 2 1 0
+4 2 4 2 0
+2 4 0 0 0
+2 0 0 0 0
+3 2 0 0 0
+AI1>>STDOUT: U 1 3 1 5
+AI0>>Writing to stdin, waiting for stdout
+23 99032 120 132
+2 1 2 1 3
+4 2 4 2 0
+2 4 0 0 0
+2 0 0 0 0
+3 2 0 0 0
+2 1 2 1 4
+0 2 3 4 4
+0 0 0 1 1
+0 0 0 4 0
+0 0 0 0 0
+AI0>>STDOUT: R 1 1 5 1
+AI1>>Writing to stdin, waiting for stdout
+23 99007 132 120
+2 1 2 1 4
+0 2 3 4 4
+0 0 0 1 1
+0 0 0 4 0
+1 0 0 0 0
+2 1 2 1 3
+0 4 2 4 2
+0 0 0 2 4
+0 0 0 0 2
+0 0 0 3 2
+AI1>>STDOUT: L 4 1 4 2 2 1 3 3 5 2
+AI0>>Writing to stdin, waiting for stdout
+24 99005 120 168
+2 1 2 1 3
+1 4 2 4 2
+0 0 1 2 4
+0 1 0 0 2
+0 1 0 3 2
+2 1 2 1 4
+2 3 5 0 0
+2 0 0 0 0
+4 0 0 0 0
+1 0 0 0 0
+AI0>>STDOUT: L 1 1 3 3
+AI1>>Writing to stdin, waiting for stdout
+24 98928 168 120
+2 1 2 1 4
+2 3 5 0 0
+2 0 1 0 0
+4 0 0 0 0
+1 0 0 0 0
+2 1 2 1 3
+1 4 2 4 2
+1 2 4 0 0
+1 2 0 0 0
+1 3 2 0 0
+AI1>>STDOUT: L 1 1 5 5
+AI0>>Writing to stdin, waiting for stdout
+25 98980 120 168
+2 1 2 1 3
+1 4 2 4 2
+1 2 4 0 0
+1 2 0 0 0
+1 3 2 0 1
+2 1 2 1 4
+2 3 5 0 0
+2 1 0 0 0
+4 0 0 0 0
+1 0 0 0 0
+AI0>>STDOUT: U 8 2 4 4 5 2 3 5 2 5 4 3 4 5 5 3 3 3
+AI1>>Writing to stdin, waiting for stdout
+25 98904 168 144
+2 1 2 1 4
+2 3 5 0 2
+2 1 2 0 2
+4 0 2 2 2
+1 2 2 0 0
+2 1 3 1 3
+2 4 4 4 2
+2 3 2 0 1
+0 3 0 0 0
+0 0 0 0 0
+AI1>>STDOUT: L 2 3 5 4 5 3
+AI0>>Writing to stdin, waiting for stdout
+26 98836 144 192
+2 1 3 1 3
+2 4 4 4 2
+2 3 2 0 1
+0 3 0 0 0
+0 0 3 3 0
+2 1 2 1 4
+2 3 5 2 0
+2 1 3 0 0
+4 3 2 0 0
+1 3 0 0 0
+AI0>>STDOUT: D 4 1 5 4 3 5 4 5 2 5
+AI1>>Writing to stdin, waiting for stdout
+26 98777 192 168
+2 1 2 1 4
+2 3 5 2 1
+2 1 3 0 1
+4 3 2 0 1
+1 3 0 1 0
+0 0 0 0 0
+0 0 3 0 0
+0 1 4 1 3
+2 4 2 4 2
+3 4 3 3 1
+AI1>>STDOUT: U 4 2 2 4 1 2 1 3 2 2
+AI0>>Writing to stdin, waiting for stdout
+27 98736 168 220
+0 2 2 0 0
+0 2 3 2 0
+0 1 4 1 3
+2 4 2 4 2
+3 4 3 3 1
+3 1 2 1 4
+2 3 5 2 2
+4 1 3 1 1
+1 4 2 0 0
+0 0 0 0 0
+AI0>>STDOUT: U 1 3 4 4
+AI1>>Writing to stdin, waiting for stdout
+27 98648 220 208
+3 1 2 1 4
+2 3 5 2 2
+4 1 3 1 1
+1 4 2 3 0
+0 0 0 0 0
+2 3 2 2 3
+3 1 3 1 2
+0 5 4 4 1
+0 0 2 3 0
+0 0 3 0 0
+AI1>>STDOUT: L 4 1 5 4 4 2 3 1 5 1
+AI0>>Writing to stdin, waiting for stdout
+28 98644 208 232
+2 3 2 2 3
+3 1 3 1 2
+1 5 4 4 1
+0 1 2 3 0
+1 0 3 1 0
+3 1 2 1 4
+2 3 5 3 0
+4 1 3 2 0
+1 4 2 3 0
+0 0 0 0 0
+AI0>>STDOUT: L 4 1 4 5 5 4 3 5 2 5
+AI1>>Writing to stdin, waiting for stdout
+28 98559 232 248
+3 1 2 1 4
+2 3 5 3 1
+4 1 3 2 1
+1 4 2 3 1
+0 0 0 1 0
+2 3 3 3 0
+3 1 3 1 2
+1 5 5 1 0
+1 2 3 0 0
+1 3 1 0 0
+AI1>>STDOUT: D 1 2 4 4
+AI0>>Writing to stdin, waiting for stdout
+29 98545 248 236
+2 3 3 3 0
+3 1 3 1 2
+1 5 5 1 0
+1 2 3 2 0
+1 3 1 0 0
+0 0 0 1 0
+3 1 2 3 0
+2 3 5 2 4
+4 1 3 3 1
+1 4 2 1 2
+AI0>>STDOUT: D 4 2 1 2 1 5 1 1 2 5
+AI1>>Writing to stdin, waiting for stdout
+29 98521 236 272
+2 2 0 1 2
+3 1 2 3 2
+2 3 5 2 4
+4 1 3 3 1
+1 4 2 1 2
+0 3 0 0 0
+2 1 4 0 0
+3 5 5 3 0
+1 2 3 2 0
+2 3 1 2 2
+AI1>>STDOUT: L 4 1 1 3 2 5 1 1 2 4
+AI0>>Writing to stdin, waiting for stdout
+30 98429 272 260
+1 3 1 0 0
+2 1 4 1 1
+3 5 5 3 0
+1 2 3 2 0
+2 3 1 2 2
+3 1 2 0 0
+3 1 2 3 2
+2 3 5 2 4
+4 1 4 1 0
+1 4 2 1 2
+AI0>>STDOUT: U 2 1 1 4 4 5
+AI1>>Writing to stdin, waiting for stdout
+30 98442 260 280
+3 1 2 1 0
+3 1 2 3 2
+2 3 5 2 4
+4 1 4 1 1
+1 4 2 1 2
+1 3 1 1 1
+2 1 4 3 2
+3 5 5 3 0
+1 2 3 0 0
+2 3 1 0 0
+AI1>>STDOUT: L 1 2 5 4
+AI0>>Writing to stdin, waiting for stdout
+31 98358 280 264
+1 3 1 1 1
+2 1 4 3 2
+3 5 5 3 0
+1 2 3 0 0
+2 3 1 2 0
+3 1 2 1 0
+3 1 2 3 2
+2 3 5 2 4
+4 1 4 2 0
+1 4 2 1 2
+AI0>>STDOUT: R 1 3 4 5
+AI1>>Writing to stdin, waiting for stdout
+31 98406 264 348
+3 1 2 1 0
+3 1 2 3 2
+2 3 5 2 4
+4 1 4 2 3
+1 4 2 1 2
+0 1 3 1 2
+2 1 4 3 2
+0 0 3 6 3
+0 0 1 2 3
+0 2 3 1 2
+AI1>>STDOUT: D 4 3 5 1 4 2 1 1 4 1
+AI0>>Writing to stdin, waiting for stdout
+32 98281 348 300
+3 1 3 1 2
+2 1 4 3 2
+0 0 3 6 3
+3 3 1 2 3
+3 2 3 1 2
+0 0 0 0 0
+4 2 3 1 2
+2 3 5 3 4
+4 1 4 3 3
+1 4 2 1 2
+AI0>>STDOUT: R 1 2 1 4
+AI1>>Writing to stdin, waiting for stdout
+32 98333 300 364
+0 0 0 2 0
+4 2 3 1 2
+2 3 5 3 4
+4 1 4 3 3
+1 4 2 1 2
+3 1 3 1 2
+2 1 4 3 2
+0 0 3 6 3
+0 4 1 2 3
+3 2 3 1 2
+AI1>>STDOUT: R 2 1 4 1 3 2
+AI0>>Writing to stdin, waiting for stdout
+33 98203 364 316
+3 1 3 1 2
+2 1 4 3 2
+0 1 3 6 3
+1 4 1 2 3
+3 2 3 1 2
+0 0 0 0 2
+4 2 3 1 2
+2 3 5 3 4
+0 4 1 4 4
+1 4 2 1 2
+AI0>>STDOUT: L 1 1 1 2
+AI1>>Writing to stdin, waiting for stdout
+33 98297 316 364
+0 1 0 0 2
+4 2 3 1 2
+2 3 5 3 4
+0 4 1 4 4
+1 4 2 1 2
+3 1 3 1 2
+2 1 4 3 2
+1 3 6 3 0
+1 4 1 2 3
+3 2 3 1 2
+AI1>>STDOUT: R 1 2 3 5
+AI0>>Writing to stdin, waiting for stdout
+34 98164 364 348
+3 1 3 1 2
+2 1 4 3 2
+1 3 6 3 2
+1 4 1 2 3
+3 2 3 1 2
+0 0 0 1 2
+4 2 3 1 2
+2 3 5 3 4
+0 0 4 1 5
+1 4 2 1 2
+AI0>>STDOUT: U 1 5 4 2
+AI1>>Writing to stdin, waiting for stdout
+34 98273 348 396
+0 0 0 1 2
+4 2 3 1 2
+2 3 5 3 4
+0 5 4 1 5
+1 4 2 1 2
+3 2 3 1 3
+2 3 4 4 2
+2 4 6 2 3
+3 2 1 1 2
+0 0 3 0 0
+AI1>>STDOUT: D 1 4 5 1
+AI0>>Writing to stdin, waiting for stdout
+35 98037 396 364
+3 2 3 1 3
+2 3 4 4 2
+2 4 6 2 3
+3 2 1 1 2
+4 0 3 0 0
+0 0 0 0 0
+0 2 3 0 3
+4 3 5 2 4
+2 5 4 3 5
+1 4 2 2 2
+AI0>>STDOUT: R 4 1 2 1 1 2 2 4 1 3
+AI1>>Writing to stdin, waiting for stdout
+35 98195 364 432
+0 1 1 0 0
+1 2 3 1 3
+4 3 5 2 4
+2 5 4 3 5
+1 4 2 2 2
+3 2 3 1 3
+0 2 3 5 2
+2 4 6 2 3
+0 3 2 2 2
+0 0 0 4 3
+AI1>>STDOUT: R 4 1 2 1 5 3 4 1 5 2
+AI0>>Writing to stdin, waiting for stdout
+36 97934 432 376
+3 2 3 1 3
+1 2 3 5 2
+2 4 6 2 3
+1 3 2 2 2
+0 1 1 4 3
+0 0 0 0 2
+1 2 3 1 3
+4 3 5 2 4
+2 5 4 3 5
+0 1 4 2 3
+AI0>>STDOUT: R 1 3 1 4
+AI1>>Writing to stdin, waiting for stdout
+36 98127 376 444
+0 0 0 3 2
+1 2 3 1 3
+4 3 5 2 4
+2 5 4 3 5
+0 1 4 2 3
+3 2 3 1 3
+1 2 3 5 2
+2 4 6 2 3
+0 1 3 2 3
+0 0 2 4 3
+AI1>>STDOUT: U 1 2 4 1
+AI0>>Writing to stdin, waiting for stdout
+37 97819 444 408
+3 2 3 1 3
+1 2 3 5 2
+2 4 6 2 3
+2 1 3 2 3
+0 0 2 4 3
+1 2 3 3 2
+4 3 5 1 3
+2 5 5 2 4
+0 1 0 3 5
+0 0 0 2 3
+AI0>>STDOUT: D 4 4 5 1 4 3 4 1 5 2
+AI1>>Writing to stdin, waiting for stdout
+37 98089 408 500
+1 2 3 3 2
+4 3 5 1 3
+2 5 5 2 4
+4 1 4 3 5
+4 4 0 2 3
+0 0 0 0 0
+0 0 4 1 3
+3 3 6 5 2
+1 4 3 3 3
+3 1 2 4 4
+AI1>>STDOUT: D 4 1 1 5 2 2 1 1 1 3
+AI0>>Writing to stdin, waiting for stdout
+38 97685 500 504
+1 0 1 0 1
+0 1 4 1 3
+3 3 6 5 2
+1 4 3 3 3
+3 1 2 4 4
+0 2 0 3 2
+1 3 0 1 3
+4 5 3 2 4
+2 1 6 3 5
+5 4 4 2 3
+AI0>>STDOUT: D 1 1 1 3
+AI1>>Writing to stdin, waiting for stdout
+38 98013 504 500
+0 2 1 3 2
+1 3 0 1 3
+4 5 3 2 4
+2 1 6 3 5
+5 4 4 2 3
+0 0 1 0 1
+1 1 4 1 3
+3 3 6 5 2
+1 4 3 3 3
+3 1 2 4 4
+AI1>>STDOUT: L 1 2 1 4
+AI0>>Writing to stdin, waiting for stdout
+39 97624 500 536
+0 0 1 2 1
+1 1 4 1 3
+3 3 6 5 2
+1 4 3 3 3
+3 1 2 4 4
+2 1 3 2 0
+1 3 1 3 0
+4 5 3 2 4
+2 1 6 3 5
+5 5 2 3 0
+AI0>>STDOUT: U 1 1 5 5
+AI1>>Writing to stdin, waiting for stdout
+39 97969 536 500
+2 1 3 2 0
+1 3 1 3 0
+4 5 3 2 4
+2 1 6 3 5
+5 5 2 3 1
+1 1 1 2 1
+3 3 4 1 3
+1 4 6 5 2
+3 1 3 3 3
+0 0 2 4 4
+AI1>>STDOUT: R 2 1 5 1 5 2
+AI0>>Writing to stdin, waiting for stdout
+40 97566 500 600
+1 1 1 2 1
+3 3 4 1 3
+1 4 6 5 2
+3 1 3 3 3
+1 1 2 4 4
+0 2 1 3 2
+0 1 3 1 3
+4 5 3 2 4
+2 1 6 3 5
+0 6 2 3 1
+AI0>>STDOUT: R 2 5 1 1 5 1
+AI1>>Writing to stdin, waiting for stdout
+40 97914 600 572
+5 2 1 3 2
+0 1 3 1 3
+4 5 3 2 4
+2 1 6 3 5
+5 6 2 3 1
+0 1 2 2 1
+0 4 4 1 3
+1 4 6 5 2
+0 3 1 3 4
+0 0 2 2 5
+AI1>>STDOUT: D 2 2 2 1 4 1
+AI0>>Writing to stdin, waiting for stdout
+41 97483 572 632
+0 1 2 2 1
+2 4 4 1 3
+1 4 6 5 2
+2 3 1 3 4
+0 0 2 2 5
+0 2 0 0 2
+5 1 1 3 3
+4 5 4 1 4
+2 1 6 2 5
+5 6 2 4 1
+AI0>>STDOUT: R 1 4 1 3
+AI1>>Writing to stdin, waiting for stdout
+41 97845 632 620
+0 2 4 0 2
+5 1 1 3 3
+4 5 4 1 4
+2 1 6 2 5
+5 6 2 4 1
+0 0 1 3 1
+0 2 5 1 3
+1 4 6 5 2
+2 3 1 3 4
+0 0 0 3 5
+AI1>>STDOUT: R 1 3 2 1
+AI0>>Writing to stdin, waiting for stdout
+42 97422 620 652
+0 0 1 3 1
+3 2 5 1 3
+1 4 6 5 2
+2 3 1 3 4
+0 0 0 3 5
+0 0 2 4 2
+0 0 5 2 4
+4 5 4 1 4
+2 1 6 2 5
+5 6 2 4 1
+AI0>>STDOUT: D 1 2 2 1
+AI1>>Writing to stdin, waiting for stdout
+42 97780 652 636
+0 0 2 4 2
+2 0 5 2 4
+4 5 4 1 4
+2 1 6 2 5
+5 6 2 4 1
+0 0 0 0 1
+0 0 1 3 3
+3 2 5 1 2
+1 4 6 5 4
+2 3 1 4 5
+AI1>>STDOUT: D 1 2 1 4
+AI0>>Writing to stdin, waiting for stdout
+43 97347 636 684
+0 0 0 2 1
+0 0 1 3 3
+3 2 5 1 2
+1 4 6 5 4
+2 3 1 4 5
+0 0 2 4 0
+2 0 5 2 2
+4 5 4 1 5
+2 1 6 2 5
+5 6 2 4 1
+AI0>>STDOUT: R 2 1 1 1 1 5
+AI1>>Writing to stdin, waiting for stdout
+43 97740 684 652
+1 0 2 4 1
+2 0 5 2 2
+4 5 4 1 5
+2 1 6 2 5
+5 6 2 4 1
+0 0 0 2 1
+0 0 0 1 4
+3 2 5 1 2
+1 4 6 5 4
+2 3 1 4 5
+AI1>>STDOUT: U 2 1 1 1 2 3
+AI0>>Writing to stdin, waiting for stdout
+44 97268 652 748
+1 0 0 2 1
+0 0 1 1 4
+3 2 5 1 2
+1 4 6 5 4
+2 3 1 4 5
+1 5 2 4 1
+2 1 5 2 2
+4 6 4 1 6
+2 0 6 2 1
+5 0 2 4 0
+AI0>>STDOUT: U 2 1 4 2 5 5
+AI1>>Writing to stdin, waiting for stdout
+44 97695 748 656
+1 5 2 4 1
+2 1 5 2 2
+4 6 4 1 6
+2 1 6 2 1
+5 0 2 4 1
+1 2 1 2 1
+3 4 5 2 4
+1 3 6 5 2
+2 0 1 4 4
+0 0 0 0 5
+AI1>>STDOUT: U 1 2 5 3
+AI0>>Writing to stdin, waiting for stdout
+45 97197 656 752
+1 2 1 2 1
+3 4 5 2 4
+1 3 6 5 2
+2 0 1 4 4
+0 0 2 0 5
+1 5 2 4 1
+2 1 5 2 2
+4 6 4 1 6
+2 1 6 2 2
+5 0 2 4 0
+AI0>>STDOUT: R 1 2 5 2
+AI1>>Writing to stdin, waiting for stdout
+45 97648 752 688
+1 5 2 4 1
+2 1 5 2 2
+4 6 4 1 6
+2 1 6 2 2
+5 2 2 4 0
+1 2 1 2 1
+3 4 5 2 4
+1 3 6 5 2
+0 0 2 1 5
+0 0 0 2 5
+AI1>>STDOUT: L 2 3 5 1 5 3
+AI0>>Writing to stdin, waiting for stdout
+46 97120 688 776
+1 2 1 2 1
+3 4 5 2 4
+1 3 6 5 2
+0 0 2 1 5
+3 0 3 2 5
+1 5 2 4 1
+2 1 5 3 0
+4 6 4 1 6
+2 1 6 3 0
+5 3 4 0 0
+AI0>>STDOUT: U 2 2 2 5 5 5
+AI1>>Writing to stdin, waiting for stdout
+46 97576 776 760
+1 5 2 4 1
+2 1 5 3 2
+4 6 4 1 6
+2 1 6 3 0
+5 3 4 0 2
+1 2 1 3 1
+3 4 5 5 4
+1 3 6 1 2
+3 0 2 2 6
+0 0 3 0 0
+AI1>>STDOUT: R 1 1 4 2
+AI0>>Writing to stdin, waiting for stdout
+47 97007 760 776
+1 2 1 3 1
+3 4 5 5 4
+1 3 6 1 2
+3 1 2 2 6
+0 0 3 0 0
+1 5 2 4 1
+2 1 5 3 2
+4 6 4 1 6
+0 2 1 6 3
+0 5 3 4 2
+AI0>>STDOUT: L 1 3 4 1
+AI1>>Writing to stdin, waiting for stdout
+47 97554 776 832
+1 5 2 4 1
+2 1 5 3 2
+4 6 4 1 6
+3 2 1 6 3
+0 5 3 4 2
+1 2 1 3 1
+3 4 6 4 0
+1 3 6 1 2
+3 1 3 6 0
+3 0 0 0 0
+AI1>>STDOUT: D 1 1 4 5
+AI0>>Writing to stdin, waiting for stdout
+48 96935 832 776
+1 2 1 3 1
+3 4 6 4 0
+1 3 6 1 2
+3 1 3 6 1
+3 0 0 0 0
+0 5 2 4 1
+1 1 5 3 2
+2 6 4 1 6
+4 2 1 6 3
+3 5 3 4 2
+AI0>>STDOUT: U 1 3 1 1
+AI1>>Writing to stdin, waiting for stdout
+48 97533 776 976
+3 5 2 4 1
+1 1 5 3 2
+2 6 4 1 6
+4 2 1 6 3
+3 5 3 4 2
+1 2 1 3 1
+3 4 7 4 2
+1 3 3 1 1
+4 1 0 6 0
+0 0 0 0 0
+AI1>>STDOUT: L 1 2 5 1
+AI0>>Writing to stdin, waiting for stdout
+49 96898 976 780
+1 2 1 3 1
+3 4 7 4 2
+1 3 3 1 1
+4 1 0 6 0
+2 0 0 0 0
+3 5 2 4 1
+2 5 3 2 0
+2 6 4 1 6
+4 2 1 6 3
+3 5 3 4 2
+AI0>>STDOUT: R 1 3 2 5
+AI1>>Writing to stdin, waiting for stdout
+49 97470 780 996
+3 5 2 4 1
+2 5 3 2 3
+2 6 4 1 6
+4 2 1 6 3
+3 5 3 4 2
+1 2 1 3 1
+3 4 7 4 2
+0 0 1 4 2
+0 0 4 1 6
+0 0 0 0 2
+AI1>>STDOUT: U 2 2 4 2 3 1
+AI0>>Writing to stdin, waiting for stdout
+50 96876 996 852
+1 2 1 3 1
+3 4 7 4 2
+2 0 1 4 2
+0 2 4 1 6
+0 0 0 0 2
+3 6 2 4 1
+3 6 3 2 3
+4 2 4 1 6
+3 5 1 6 3
+0 0 3 4 2
+AI0>>STDOUT: D 2 2 5 2 5 1
+AI1>>Writing to stdin, waiting for stdout
+50 97385 852 1036
+3 6 2 4 1
+3 6 3 2 3
+4 2 4 1 6
+3 5 1 6 3
+2 2 3 4 2
+0 0 0 0 0
+0 0 1 0 1
+1 2 7 3 3
+3 4 1 5 6
+2 2 4 1 2
+AI1>>STDOUT: L 2 1 1 4 2 2
+AI0>>Writing to stdin, waiting for stdout
+51 96791 1036 860
+0 0 0 1 0
+0 1 1 0 1
+1 2 7 3 3
+3 4 1 5 6
+2 2 4 1 2
+3 6 2 4 1
+3 6 3 2 3
+4 2 4 1 6
+3 5 1 6 3
+3 3 4 2 0
+AI0>>STDOUT: L 1 4 5 5
+AI1>>Writing to stdin, waiting for stdout
+51 97345 860 1064
+3 6 2 4 1
+3 6 3 2 3
+4 2 4 1 6
+3 5 1 6 3
+3 3 4 2 4
+1 0 0 0 0
+2 1 0 0 0
+1 2 7 4 0
+3 4 1 5 6
+3 4 1 2 0
+AI1>>STDOUT: L 1 2 1 2
+AI0>>Writing to stdin, waiting for stdout
+52 96735 1064 876
+1 2 0 0 0
+2 1 0 0 0
+1 2 7 4 0
+3 4 1 5 6
+3 4 1 2 0
+3 6 2 4 1
+3 6 3 2 3
+4 2 4 1 6
+3 5 1 6 3
+4 4 2 4 0
+AI0>>STDOUT: D 1 4 5 5
+AI1>>Writing to stdin, waiting for stdout
+52 97303 876 1116
+3 6 2 4 1
+3 6 3 2 3
+4 2 4 1 6
+3 5 1 6 3
+4 4 2 4 4
+0 0 0 0 0
+1 2 0 0 0
+2 1 0 4 0
+1 2 7 5 0
+4 5 2 2 6
+AI1>>STDOUT: D 4 1 2 5 1 4 1 3 4 5
+AI0>>Writing to stdin, waiting for stdout
+53 96695 1116 1020
+0 0 1 1 0
+1 2 0 0 1
+2 1 0 4 0
+1 2 7 5 1
+4 5 2 2 6
+0 0 2 4 1
+4 7 3 2 3
+4 2 4 1 6
+3 5 1 6 3
+4 4 2 4 4
+AI0>>STDOUT: U 2 1 1 1 1 2
+AI1>>Writing to stdin, waiting for stdout
+53 97201 1020 1120
+1 1 2 4 1
+4 7 3 2 3
+4 2 4 1 6
+3 5 1 6 3
+4 4 2 4 4
+1 2 1 1 2
+2 1 7 4 6
+1 2 2 5 0
+4 5 0 2 0
+0 0 0 0 0
+AI1>>STDOUT: L 2 3 3 5 4 3
+AI0>>Writing to stdin, waiting for stdout
+54 96614 1120 1088
+1 2 1 1 2
+2 1 7 4 6
+1 2 2 5 3
+4 5 3 2 0
+0 0 0 0 0
+2 2 4 1 0
+4 7 3 2 3
+4 2 4 1 6
+3 5 1 6 3
+5 2 5 0 0
+AI0>>STDOUT: R 2 2 1 5 5 5
+AI1>>Writing to stdin, waiting for stdout
+54 97081 1088 1132
+2 2 4 1 2
+4 7 3 2 3
+4 2 4 1 6
+3 5 1 6 3
+5 2 5 0 2
+0 1 2 2 2
+2 1 7 4 6
+0 1 3 5 3
+0 4 5 3 2
+0 0 0 0 0
+AI1>>STDOUT: U 2 1 5 1 1 1
+AI0>>Writing to stdin, waiting for stdout
+55 96537 1132 1120
+1 1 2 2 2
+2 1 7 4 6
+0 1 3 5 3
+0 4 5 3 2
+1 0 0 0 0
+2 2 4 1 2
+5 7 3 2 3
+3 2 4 1 6
+5 5 1 6 3
+0 2 5 0 2
+AI0>>STDOUT: R 1 3 5 4
+AI1>>Writing to stdin, waiting for stdout
+55 97021 1120 1144
+2 2 4 1 2
+5 7 3 2 3
+3 2 4 1 6
+5 5 1 6 3
+0 2 5 3 2
+0 0 2 2 3
+2 1 7 4 6
+0 1 3 5 3
+0 4 5 3 2
+0 0 0 0 1
+AI1>>STDOUT: L 2 2 5 4 1 2
+AI0>>Writing to stdin, waiting for stdout
+56 96482 1144 1192
+0 2 2 2 3
+2 1 7 4 6
+0 1 3 5 3
+0 4 5 3 2
+0 0 0 2 1
+3 4 1 2 0
+5 7 3 2 3
+3 2 4 1 6
+6 1 6 3 0
+2 5 3 2 0
+AI0>>STDOUT: U 2 1 1 5 5 5
+AI1>>Writing to stdin, waiting for stdout
+56 96927 1192 1148
+3 4 1 2 1
+5 7 3 2 3
+3 2 4 1 6
+6 1 6 3 0
+2 5 3 2 1
+2 2 2 2 3
+0 2 7 4 6
+0 4 3 5 3
+0 0 5 3 2
+0 0 0 2 1
+AI1>>STDOUT: D 2 1 3 1 5 2
+AI0>>Writing to stdin, waiting for stdout
+57 96419 1148 1200
+2 2 2 2 3
+0 2 7 4 6
+1 4 3 5 3
+0 0 5 3 2
+0 1 0 2 1
+3 4 1 0 0
+5 7 3 3 1
+3 2 4 1 3
+6 1 6 3 6
+2 5 3 2 1
+AI0>>STDOUT: L 2 2 1 5 1 4
+AI1>>Writing to stdin, waiting for stdout
+57 96866 1200 1164
+3 4 1 2 2
+5 7 3 3 1
+3 2 4 1 3
+6 1 6 3 6
+2 5 3 2 1
+3 3 3 0 0
+2 7 4 6 0
+1 4 3 5 3
+5 3 2 0 0
+1 2 1 0 0
+AI1>>STDOUT: L 2 2 1 4 2 5
+AI0>>Writing to stdin, waiting for stdout
+58 96351 1164 1224
+3 3 3 2 0
+2 7 4 6 2
+1 4 3 5 3
+5 3 2 0 0
+1 2 1 0 0
+3 4 1 3 0
+5 7 4 1 0
+3 2 4 1 3
+6 1 6 3 6
+2 5 3 2 1
+AI0>>STDOUT: U 1 1 1 5
+AI1>>Writing to stdin, waiting for stdout
+58 96789 1224 1164
+3 4 1 3 1
+5 7 4 1 0
+3 2 4 1 3
+6 1 6 3 6
+2 5 3 2 1
+3 3 3 2 2
+2 7 4 6 3
+1 4 3 5 0
+5 3 2 0 0
+1 2 1 0 0
+AI1>>STDOUT: U 4 1 4 4 3 5 5 4 5 5
+AI0>>Writing to stdin, waiting for stdout
+59 96321 1164 1260
+3 3 3 2 2
+2 7 4 6 3
+1 4 3 5 1
+5 3 2 1 0
+1 2 1 1 1
+3 4 1 3 1
+5 7 5 2 3
+3 2 6 3 6
+6 1 3 2 1
+2 5 0 0 0
+AI0>>STDOUT: R 1 4 5 5
+AI1>>Writing to stdin, waiting for stdout
+59 96706 1260 1192
+3 4 1 3 1
+5 7 5 2 3
+3 2 6 3 6
+6 1 3 2 1
+2 5 0 0 4
+0 0 3 4 3
+2 7 4 6 3
+1 4 3 5 1
+0 5 3 2 1
+0 1 2 1 2
+AI1>>STDOUT: D 1 1 1 1
+AI0>>Writing to stdin, waiting for stdout
+60 96261 1192 1260
+1 0 3 4 3
+2 7 4 6 3
+1 4 3 5 1
+0 5 3 2 1
+0 1 2 1 2
+3 4 0 0 1
+5 7 1 3 3
+3 2 5 2 6
+6 1 6 3 1
+2 5 3 2 4
+AI0>>STDOUT: D 2 3 1 3 1 4
+AI1>>Writing to stdin, waiting for stdout
+60 96687 1260 1228
+3 4 3 3 1
+5 7 1 3 3
+3 2 5 2 6
+6 1 6 3 1
+2 5 3 2 4
+0 0 0 4 0
+0 7 3 6 0
+1 4 4 5 4
+2 5 4 2 2
+1 1 2 1 2
+AI1>>STDOUT: R 4 1 1 2 1 5 1 3 2 5
+AI0>>Writing to stdin, waiting for stdout
+61 96170 1228 1292
+0 1 1 4 1
+0 7 3 6 1
+1 4 4 5 4
+2 5 4 2 2
+1 1 2 1 2
+0 3 4 4 1
+0 5 7 1 4
+3 2 5 2 6
+6 1 6 3 1
+2 5 3 2 4
+AI0>>STDOUT: R 1 5 1 1
+AI1>>Writing to stdin, waiting for stdout
+61 96581 1292 1276
+5 3 4 4 1
+0 5 7 1 4
+3 2 5 2 6
+6 1 6 3 1
+2 5 3 2 4
+0 0 2 4 1
+0 7 3 6 1
+0 1 5 5 4
+0 2 5 4 3
+0 2 2 1 2
+AI1>>STDOUT: L 2 1 5 1 1 2
+AI0>>Writing to stdin, waiting for stdout
+62 96086 1276 1324
+0 1 2 4 1
+0 7 3 6 1
+0 1 5 5 4
+0 2 5 4 3
+1 2 2 1 2
+5 3 5 1 0
+5 7 1 4 0
+3 2 5 2 6
+6 1 6 3 1
+2 5 3 2 4
+AI0>>STDOUT: R 1 3 2 5
+AI1>>Writing to stdin, waiting for stdout
+62 96536 1324 1348
+5 3 5 1 0
+5 7 1 4 3
+3 2 5 2 6
+6 1 6 3 1
+2 5 3 2 4
+0 1 2 4 1
+0 7 3 6 1
+0 0 1 6 4
+0 2 5 4 3
+0 1 3 1 2
+AI1>>STDOUT: U 1 2 1 1
+AI0>>Writing to stdin, waiting for stdout
+63 96028 1348 1388
+2 1 2 4 1
+0 7 3 6 1
+0 0 1 6 4
+0 2 5 4 3
+0 1 3 1 2
+6 3 5 1 3
+3 7 1 4 6
+6 2 5 2 1
+2 1 6 3 4
+0 5 3 2 0
+AI0>>STDOUT: D 1 3 5 5
+AI1>>Writing to stdin, waiting for stdout
+63 96497 1388 1480
+6 3 5 1 3
+3 7 1 4 6
+6 2 5 2 1
+2 1 6 3 4
+0 5 3 2 3
+0 0 2 0 0
+0 1 3 4 2
+0 7 1 7 4
+0 2 5 4 3
+2 1 3 1 2
+AI1>>STDOUT: L 1 1 4 1
+AI0>>Writing to stdin, waiting for stdout
+64 95947 1480 1388
+0 0 2 0 0
+0 1 3 4 2
+0 7 1 7 4
+1 2 5 4 3
+2 1 3 1 2
+6 3 5 1 3
+3 7 1 4 6
+6 2 5 2 1
+2 1 6 3 4
+5 3 2 3 0
+AI0>>STDOUT: U 1 1 5 5
+AI1>>Writing to stdin, waiting for stdout
+64 96474 1388 1480
+6 3 5 1 3
+3 7 1 4 6
+6 2 5 2 1
+2 1 6 3 4
+5 3 2 3 1
+1 1 2 4 2
+2 7 3 7 4
+0 2 1 4 3
+0 1 5 1 2
+0 0 3 0 0
+AI1>>STDOUT: U 1 2 5 2
+AI0>>Writing to stdin, waiting for stdout
+65 95923 1480 1404
+1 1 2 4 2
+2 7 3 7 4
+0 2 1 4 3
+0 1 5 1 2
+0 2 3 0 0
+6 3 5 1 3
+3 7 1 4 6
+6 2 5 2 1
+2 1 6 4 4
+5 3 2 0 1
+AI0>>STDOUT: L 1 2 5 4
+AI1>>Writing to stdin, waiting for stdout
+65 96421 1404 1484
+6 3 5 1 3
+3 7 1 4 6
+6 2 5 2 1
+2 1 6 4 4
+5 3 2 2 1
+2 2 4 2 0
+2 7 3 7 4
+2 1 4 3 0
+1 5 1 2 0
+2 3 0 0 0
+AI1>>STDOUT: R 4 1 5 5 1 5 4 5 3 5
+AI0>>Writing to stdin, waiting for stdout
+66 95896 1484 1444
+2 2 4 2 1
+2 7 3 7 4
+2 1 4 3 1
+1 5 1 2 1
+2 3 0 0 1
+6 3 5 1 3
+3 7 1 4 6
+6 2 5 2 1
+0 2 1 6 5
+0 5 3 3 1
+AI0>>STDOUT: L 1 2 5 1
+AI1>>Writing to stdin, waiting for stdout
+66 96334 1444 1492
+6 3 5 1 3
+3 7 1 4 6
+6 2 5 2 1
+0 2 1 6 5
+2 5 3 3 1
+3 4 2 1 0
+2 7 3 7 4
+2 1 4 3 1
+1 5 1 2 1
+2 3 1 0 0
+AI1>>STDOUT: L 1 2 1 5
+AI0>>Writing to stdin, waiting for stdout
+67 95797 1492 1460
+3 4 2 1 2
+2 7 3 7 4
+2 1 4 3 1
+1 5 1 2 1
+2 3 1 0 0
+6 3 5 1 3
+3 7 1 4 6
+6 2 5 2 1
+2 1 6 5 0
+2 5 4 1 0
+AI0>>STDOUT: U 1 4 4 5
+AI1>>Writing to stdin, waiting for stdout
+67 96289 1460 1508
+6 3 5 1 3
+3 7 1 4 6
+6 2 5 2 1
+2 1 6 5 4
+2 5 4 1 0
+3 4 2 1 2
+3 7 3 7 4
+1 1 4 3 2
+2 5 2 2 0
+0 3 0 0 0
+AI1>>STDOUT: D 2 1 5 1 5 3
+AI0>>Writing to stdin, waiting for stdout
+68 95740 1508 1468
+3 4 2 1 2
+3 7 3 7 4
+1 1 4 3 2
+2 5 2 2 0
+1 3 1 0 0
+0 3 5 1 0
+6 7 1 4 3
+3 2 5 2 6
+6 1 6 5 1
+3 5 4 1 4
+AI0>>STDOUT: L 2 2 1 5 1 1
